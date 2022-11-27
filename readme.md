@@ -16,4 +16,4 @@ The included tools are:
 
 ## Installation
 
-`go get -u github.com/sangmin4208/toolbox`
+`go get -u github.com/sangmin4208/toolkit`
